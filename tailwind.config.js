@@ -15,7 +15,8 @@ module.exports = {
       lg_992: "992px",
     },
     fontFamily: {
-      rubik: [`var(--font-rubic)`],
+      heebo: ["Heebo", "sans-serif"],
+      rubik: ["Rubik", "sans-serif"],
     },
     container: {
       center: true,
