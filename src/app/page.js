@@ -180,6 +180,10 @@ function Index_three() {
             <div className="container relative">
               <div className="grid md:grid-cols-12 grid-cols-1 items-center gap-[30px]">
                 <div className="lg:col-span-7 md:col-span-6 mt-14 md:mt-0">
+                  <h1 className="lg:text-5xl text-4xl opacity-0  font-black mb-7 position-relative dark:text-white">
+                                       שירותי מנוף <br /> והרמת משאות עד 15 קומות!
+ אא הרמות
+                  </h1>
                   <h4 className="lg:text-5xl text-4xl   font-black mb-7 position-relative dark:text-white">
                     שירותי מנוף <br /> והרמת משאות עד 15 קומות!
                   </h4>
